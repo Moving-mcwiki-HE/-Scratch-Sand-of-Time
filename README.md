@@ -1,3 +1,3 @@
 # Scratch of Time
 
-Welcome To Scratch of Time,a scratch
+Welcome To Scratch of Time
